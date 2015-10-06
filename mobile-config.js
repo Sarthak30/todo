@@ -1,9 +1,9 @@
 App.info({
   name: 'Todos',
   description: 'A simple todo list app built in Meteor.',
-  author: 'Percolate Studio Team',
-  email: 'us@percolatestudio.com',
-  website: 'http://percolatestudio.com',
+  author: 'Sarthak Deshwal',
+  email: 'sarthaknsit@gmail.com',
+  website: 'sarthak30.github.io',
   version: '0.0.1'
 });
 
